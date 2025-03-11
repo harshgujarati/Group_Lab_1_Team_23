@@ -9,5 +9,8 @@ package teamgreeting;
  * @author chandrashekarreddykusukunthla
  */
 public class Member2 {
+    public static void main(String[]args){
+        System.out.println("Hello from member 2!");
+    }
     
 }
