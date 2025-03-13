@@ -17,6 +17,7 @@ public class TeamGreeting {
         // TODO code application logic here
         Member1.main(args);
         Member2.main(args);
+        Member3.main(args);
     }
     
 }
